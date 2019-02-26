@@ -8,3 +8,8 @@ https://www.machinehack.com/course
 
   * **Rank 5th** (20th Jan 2019)
     * https://www.machinehack.com/course/predict-the-data-scientists-salary-in-india-hackathon/leaderboard
+
+
+# Analytics Vidya Magazine (MLDS - 2019)
+
+![title](RajatRanjan.jpg)
