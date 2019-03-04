@@ -11,7 +11,7 @@ https://www.machinehack.com/course
     
 * **MLDS Predict Financial Strength Of Countries Hackathon**
 
-  * **Rank 13th/42** (3rd Mar 2019)
+  * **Rank 13th/42** (31st Jan 2019)
     * https://www.machinehack.com/course/mlds-predict-financial-strength-of-countries-hackathon/leaderboard
   
 * **Predict A Doctor's Consultation Fee Hackathon**
