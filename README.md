@@ -41,6 +41,6 @@ https://www.machinehack.com/course
     
     
 
-# Analytics Vidya Magazine (MLDS - 2019)
+# Analytics India Magazine (MLDS - 2019)
 
 ![title](RajatRanjan.jpg)
