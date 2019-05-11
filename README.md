@@ -31,14 +31,23 @@ https://www.machinehack.com/course
   * **Solution**
     * https://www.kaggle.com/rajatranjan/predict-consultation-fee-doc-machinehack-re
     
+    
 * **Predict The Flight Ticket Price Hackathon**
 
-  * **Rank 11th/307** (5th April)
+  * **Rank 11th/307** (5th April 2019)
     * https://www.machinehack.com/course/predict-the-flight-ticket-price-hackathon/leaderboard
     
   * **Solution**
     * https://www.kaggle.com/rajatranjan/predict-flight-tickets-machine-hack1
     
+    
+* **Predicting Restaurant Food Cost Hackathon**
+
+  * **Rank 5th/109** (10th May 2019)
+    * https://www.machinehack.com/course/predicting-restaurant-food-cost-hackathon/leaderboard
+    
+  * **Solution**
+    * https://www.kaggle.com/rajatranjan/machinehack-predict-food-prices
     
 
 # Analytics India Magazine (MLDS - 2019)
