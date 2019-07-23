@@ -49,6 +49,14 @@ https://www.machinehack.com/course
   * **Solution**
     * https://www.kaggle.com/rajatranjan/machinehack-predict-food-prices
     
+* **Predicting The Costs Of Used Cars - Hackathon By Imarticus Learning**
+
+  * **Rank 11th/373** (21st July 2019)
+    * https://www.machinehack.com/course/predicting-the-costs-of-used-cars-hackathon-by-imarticus/leaderboard
+    
+  * **Solution**
+    * https://www.kaggle.com/rajatranjan/fork-of-mh-predict-cost-of-used-cars-hackathon
+    
 
 # Analytics India Magazine (MLDS - 2019)
 
