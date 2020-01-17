@@ -57,6 +57,23 @@ https://www.machinehack.com/course
   * **Solution**
     * https://www.kaggle.com/rajatranjan/fork-of-mh-predict-cost-of-used-cars-hackathon
     
+    
+* **Chartbusters Prediction : Foretell The Popularity Of Songs**
+
+  * **Rank 21th/190** (16th January 2020)
+    * https://www.machinehack.com/course/chartbusters-prediction-foretell-the-popularity-of-songs/leaderboard
+    
+  * **Solution**
+    * [will be updated]
+    
+* **Patient Drug-Switch Prediction by ZS**
+
+  * **Rank 11th/66** (15th January 2020)
+    * https://www.machinehack.com/course/zs-hiring-hackathon-patient-drug-switch-prediction/leaderboard
+    
+  * **Solution**
+    * [will be updated]
+    
 
 # Analytics India Magazine (MLDS - 2019)
 
