@@ -72,7 +72,7 @@ https://www.machinehack.com/course
     * https://www.machinehack.com/course/zs-hiring-hackathon-patient-drug-switch-prediction/leaderboard
     
   * **Solution**
-    * [will be updated]
+    * https://github.com/rajat5ranjan/Machine-Hack/tree/master/MH%20-%20ZS%20Patient%20Discovery%20Hackathon
     
 
 # Analytics India Magazine (MLDS - 2019)
