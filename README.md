@@ -74,6 +74,14 @@ https://www.machinehack.com/course
   * **Solution**
     * https://github.com/rajat5ranjan/Machine-Hack/tree/master/MH%20-%20ZS%20Patient%20Discovery%20Hackathon
     
+    
+* **Insurance Churn Prediction : Weekend Hackathon #2**
+
+  * **Rank 25th/212** (27th April 2020)
+    * https://www.machinehack.com/course/insurance-churn-prediction-weekend-hackathon-2/leaderboard
+    
+  * **Solution**
+    * https://www.kaggle.com/rajatranjan/mh-predict-churn/output?scriptVersionId=32691328
 
 # Analytics India Magazine (MLDS - 2019)
 
