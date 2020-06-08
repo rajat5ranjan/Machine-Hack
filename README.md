@@ -82,6 +82,17 @@ https://www.machinehack.com/course
     
   * **Solution**
     * https://www.kaggle.com/rajatranjan/mh-predict-churn/output?scriptVersionId=32691328
+    
+* **Used Electronics Price Prediction: Weekend Hackathon #7**
+
+  * **Rank 5th/117** (8th June 2020)
+    * https://www.machinehack.com/course/used-electronics-price-prediction-weekend-hackathon-7/leaderboard
+    
+  * **Solution**
+    * https://www.kaggle.com/rajatranjan/mh-used-electronics-price
+    
+    
+    
 
 # Analytics India Magazine (MLDS - 2019)
 
