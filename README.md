@@ -90,7 +90,14 @@ https://www.machinehack.com/course
     
   * **Solution**
     * https://www.kaggle.com/rajatranjan/mh-used-electronics-price
+
+* **Shell Hackathon to protect Cyber Threats #18**
+
+  * **Rank 18th** (15th Sep 2023)
+    * https://machinehack.com/hackathons/shell_hackathon_to_protect_against_cyber_threats/leaderboard
     
+  * **Solution**
+    * https://www.kaggle.com/rajatranjan/mh-used-electronics-price
     
     
 
