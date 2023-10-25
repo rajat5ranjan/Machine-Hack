@@ -97,7 +97,7 @@ https://www.machinehack.com/course
     * https://machinehack.com/hackathons/shell_hackathon_to_protect_against_cyber_threats/leaderboard
     
   * **Solution**
-    * https://www.kaggle.com/rajatranjan/mh-used-electronics-price
+    * https://github.com/rajat5ranjan/Machine-Hack/blob/master/Shell%20Hackathon%20to%20protect%20Cyber%20Threats/mh-shell-cyber-new.ipynb
     
     
 
